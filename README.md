@@ -1,3 +1,3 @@
-# Demo
+# Akash_Learner
 
-Some Description it has !
+This is my first git repository !
